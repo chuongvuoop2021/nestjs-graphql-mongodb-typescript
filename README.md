@@ -26,7 +26,10 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework test with TypeScript GraphQL MongoDB.
+![alt text](https://i.ibb.co/S34f52L/Screenshot-20200625190555-1920x1080.png)
+![alt text](https://i.ibb.co/1R8G0Sw/Screenshot-20200625190843-1920x1080.png)
+![alt text](https://i.ibb.co/0ZkdRHW/Screenshot-20200625193723-1920x1080.png)
 
 ## Installation
 
@@ -45,19 +48,6 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## Support
