@@ -8,7 +8,7 @@ import { Lesson } from './lesson.entity'
 @Module({
   imports: [
     TypeOrmModule.forFeature([Lesson])
-  ]
+  ],
   providers: [
     LessonResolver,
     LessonService
