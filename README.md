@@ -27,6 +27,8 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework test with TypeScript GraphQL MongoDB.
+
+## Screenshots
 ![alt text](https://i.ibb.co/S34f52L/Screenshot-20200625190555-1920x1080.png)
 ![alt text](https://i.ibb.co/1R8G0Sw/Screenshot-20200625190843-1920x1080.png)
 ![alt text](https://i.ibb.co/0ZkdRHW/Screenshot-20200625193723-1920x1080.png)
